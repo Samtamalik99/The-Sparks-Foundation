@@ -1,7 +1,7 @@
-## The Sparks Foundation Tasks.n\
+## The Sparks Foundation Tasks.
 
-### This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.\
+### This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
 
-**Internship Category - Data Science and Business Analytics**n\
-**Internship Duration - 1 Month ( Feburary-2021 )**n\
-**Internship Type - Work from Home**
+- **Internship Category - Data Science and Business Analytics**
+- **Internship Duration - 1 Month ( Feburary-2021 )**n\
+- **Internship Type - Work from Home**
